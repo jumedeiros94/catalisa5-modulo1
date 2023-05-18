@@ -1,0 +1,5 @@
+1- Separar uma lâmpada nova
+2- Subir na escada
+3- Tirar a lâmpada queimada
+4- Colocar a nova
+5- Descer da escada
