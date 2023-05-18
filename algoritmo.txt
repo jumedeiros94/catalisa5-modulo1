@@ -1,0 +1,10 @@
+1- Acordar
+2- Tomar banho e escovar os dentes
+3- Vestir roupas
+4- Tomar café da manhã
+5- Sair de casa
+6- Entrar no carro
+7- Seguir o caminho até o trabalho
+8- chegar no trabalho
+9- Trabalhar
+
